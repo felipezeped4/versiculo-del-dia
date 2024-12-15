@@ -39,4 +39,4 @@ refVers = div2.text if div else 'No se encontró el texto'
 #print(refVers)
 
 votdfull = f"{votd}\n{refVers}"
-#print(votdfull)
+print(votdfull)
